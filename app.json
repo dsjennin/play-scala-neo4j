@@ -1,0 +1,6 @@
+{
+  "name": "play-scala-neo4j",
+  "description": "A test play-scala-neo4j project",
+  "image": "heroku/scala",
+  "addons": [ "heroku-postgresql" ]
+}
